@@ -1,0 +1,6 @@
+assumption,low,mid,high,reason
+operated,0.9,0.95,0.98,Almost all hip fractures are operated; a few frail patients are treated without surgery
+neck_displaced,0.7,0.75,0.8,Most femoral neck fractures in older people are displaced
+tha_of_displaced,0.1,0.2,0.3,"NICE: total hip replacement for fitter, independently walking patients; the rest get a hemiarthroplasty"
+nail_of_pertroch,0.5,0.7,0.9,Pertrochanteric fractures get a nail or a sliding hip screw; nails dominate in modern practice
+nail_of_subtroch,1.0,1.0,1.0,NICE: subtrochanteric fractures are treated with an intramedullary nail
