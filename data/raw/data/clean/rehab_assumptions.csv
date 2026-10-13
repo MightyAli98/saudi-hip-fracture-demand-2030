@@ -1,4 +1,0 @@
-item,low,mid,high,reason
-inpatient_physio_sessions,5.0,7.0,10.0,"NICE: physiotherapy from the day after surgery, at least daily during the hospital stay"
-post_discharge_sessions,6.0,12.0,20.0,Outpatient or home physiotherapy after discharge to regain walking
-walker_share,0.8,0.9,1.0,Most patients use a walking frame in the first weeks
