@@ -1,0 +1,16 @@
+sex,year,hip_fractures
+Men,2015,1416
+Women,2015,1533
+Men and women,2015,2949
+Men,2020,1870
+Women,2020,1907
+Men and women,2020,3777
+Men,2030,3633
+Women,2030,3338
+Men and women,2030,6971
+Men,2040,6600
+Women,2040,6033
+Men and women,2040,12633
+Men,2050,10109
+Women,2050,10219
+Men and women,2050,20328
